@@ -1,6 +1,6 @@
-# flutter_application_1
+# Contador com flutter
 
-A new Flutter project.
+Primeiro projeto flutter com fins de estudo.
 
 ## Getting Started
 
